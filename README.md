@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Alexander-Pol's Blog](https://alexsteff.github.io/alexblog/img/website-screenshot.jpeg)](https://alexsteff.github.io/alexblog/)
+[![Alexander-Pol's Blog](https://alexsteff.github.io/alexblog/img/website-screenshot.jpg)](https://alexsteff.github.io/alexblog/)
 
 **[View Live Preview](https://alexsteff.github.io/alexblog/)**
 
