@@ -1,12 +1,12 @@
-# [Start Bootstrap - Landing Page](https://startbootstrap.com/template-overviews/landing-page/)
+# [Alexander-Pol's Blog](https://alexsteff.github.io/alexblog/)
 
-[Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[My personal domain - alexeblog.ml](http://alexblog.ml)
 
 ## Preview
 
-[![Landing Page Preview](https://startbootstrap.com/assets/img/screenshots/themes/landing-page.png)](https://blackrockdigital.github.io/startbootstrap-landing-page/)
+[![Alexander-Pol's Blog](https://alexsteff.github.io/alexblog/img/website-screenshot.jpeg)](https://alexsteff.github.io/alexblog/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-landing-page/)**
+**[View Live Preview](https://alexsteff.github.io/alexblog/)**
 
 ## Status
 
