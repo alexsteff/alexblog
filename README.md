@@ -1,6 +1,8 @@
 # [Alexander-Pol's Blog](https://alexsteff.github.io/alexblog/)
 
-[My personal domain - alexeblog.ml](http://alexblog.ml)
+<!-- Domain isn't working -->
+
+<!-- [My personal domain - alexeblog.ml](http://alexblog.ml) -->
 
 ## Preview
 
